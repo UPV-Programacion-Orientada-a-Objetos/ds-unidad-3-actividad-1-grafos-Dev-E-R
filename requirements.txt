@@ -1,0 +1,6 @@
+# Dependencias Python para NeuroNet
+cython>=0.29.0
+numpy>=1.20.0
+networkx>=2.5
+matplotlib>=3.3.0
+setuptools>=45.0.0

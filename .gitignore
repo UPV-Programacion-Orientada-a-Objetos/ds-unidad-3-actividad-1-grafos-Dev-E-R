@@ -1,0 +1,31 @@
+# Build directory
+build/
+*.o
+*.a
+*.so
+*.dylib
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+grafo_wrapper.cpp
+*.c
+venv/
+python/venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Compiled
+neuronet
+program
+a.out
+
+#extra
+extra/*
